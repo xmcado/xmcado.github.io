@@ -1,1 +1,16 @@
+#EXTINF:-1,劲爆体育
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+#EXTINF:-1,五星体育
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1,纬来体育++
 http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1,ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1,爱体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1,緯來體育
+rtmp://9sv2.mine.nu:1935/sat/tv721
+#EXTINF:-1,ELEVEN2
+rtmp://9sv2.mine.nu:1935/sat/md041
+#EXTINF:-1,ELTA體育2
+rtmp://9sv2.mine.nu/sat/md051
