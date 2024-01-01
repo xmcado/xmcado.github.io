@@ -16,7 +16,5 @@ rtmp://9sv2.mine.nu/sat/md051
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,五星体育-备用
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1,无线财经体育资讯台
+#EXTINF:-1,HONGKONG无线财经体育资讯台
 http://live.cooltv.top/tv/tvb.php?id=2
-#EXTINF:-1,香港无线财经体育资讯台
-https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
