@@ -1,24 +1,43 @@
-#EXTINF:-1,精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1,ELEVEN体育
-http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-#EXTINF:-1,广东体育sky
-https://skype.serv00.net/itouch.php?id=gdty
-#EXTINF:-1,广东体育
-http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,纬来体育
+#EXTINF:-1,台湾 纬来体育
 http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-#EXTINF:-1,劲爆体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:-1,五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1,爱体育
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1,ELEVEN2
-rtmp://9sv2.mine.nu:1935/sat/md041
-#EXTINF:-1,ELTA體育2
-rtmp://9sv2.mine.nu/sat/md051
-#EXTINF:-1,緯來體育720慢
-rtmp://9sv2.mine.nu:1935/sat/tv721
-#EXTINF:-1,ESPN
-http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1,ELTA体育1台
+https://sc2022.stream-link.org/tv2306.php?id=c03
+#EXTINF:-1,ELTA体育2台
+https://sc2022.stream-link.org/tv2306.php?id=c02
+#EXTINF:-1,ELTA体育2台
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1,ELEVEN 1 体育频道
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+#EXTINF:-1,ELEVEN 2 体育频道
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1,博斯运动1
+http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1,博斯运动1
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1,博斯运动2
+http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1,博斯运动2
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1,博斯高球2
+http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1,博斯网球
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1,Arena Sport 4 欧洲体育
+http://45.14.39.11:4445/Eurosport1HD/index.m3u8
+#EXTINF:-1,Outside TV 户外运动
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Outside TV 户外运动
+https://outside-tv.samsung.wurl.com/manifest/316fba602419717190792b6b47574254.m3u8
+#EXTINF:-1,PAC 12 Insider 体育
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8
+#EXTINF:-1,TBS 体育
+http://143.244.60.30/TBS/index.m3u8
+TNT 体育台：http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1,TNT-
+http://38.96.178.201:80/live/TNTHD/index.m3u8
+#EXTINF:-1,TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,TNT SPORTS 1
+http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
+#EXTINF:-1,英国体育频道-：https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1,英国体育频道：https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/001fa9b4-39d1-45e0-a7da-af8375c7bc35/3.m3u8
