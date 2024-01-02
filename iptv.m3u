@@ -24,5 +24,5 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.
 rtmp://9sv2.mine.nu/sat/md051
 #EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="亨鼎体育",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="五星体育" tvg-logo="https://www.stream-link.org/tv_logo/great_sports.png" group-title="亨鼎体育",五星体育频道
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="亨鼎体育",五星体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
