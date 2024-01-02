@@ -1,20 +1,6 @@
 #EXTINF:-1 group-title="🌟 新组测试",NBA
 http://www.51romzj.shop:666/xsjdl.php?id=nba
-#EXTINF:-1 group-title="🌟 新组测试",Astro SuperSport
-http://www.51romzj.shop:666/xsjdl.php?id=super-sports1
-#EXTINF:-1 group-title="🌟 新组测试",Astro SuperSport 2
-http://www.51romzj.shop:666/xsjdl.php?id=super-sports2
-#EXTINF:-1 group-title="🌟 新组测试",Astro SuperSport 3
-http://www.51romzj.shop:666/xsjdl.php?id=super-sports3
-#EXTINF:-1 group-title="🌟 新组测试",Astro SuperSport 4
-http://www.51romzj.shop:666/xsjdl.php?id=super-sports4
-#EXTINF:-1 group-title="🌟 新组测试",SPOTV-2
-http://www.51romzj.shop:666/xsjdl.php?id=spotv2
-#EXTINF:-1 group-title="🌟 新组测试",SPOTV
-http://www.51romzj.shop:666/xsjdl.php?id=spotv
-#EXTINF:-1 group-title="🌟 新组测试",Eurosports-1
-http://www.51romzj.shop:666/xsjdl.php?id=eurosports-1
-#EXTINF:-1 group-title="🌷 港台直播" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png",纬来体育无声
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="亨鼎体育",纬来体育
 http://www.51romzj.shop:666/xsjdl.php?id=videoland-sport
 #EXTINF:-1,纬来体育台
 http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
@@ -34,7 +20,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?ch
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1,博斯运动2
 rtmp://9sv2.mine.nu/sat/md051
-#EXTINF:-1,精品体育
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="亨鼎体育",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1,五星体育频道
+#EXTINF:-1 tvg-id="9999" tvg-name="五星体育" tvg-logo="https://www.stream-link.org/tv_logo/great_sports.png" group-title="亨鼎体育",五星体育频道
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
