@@ -1,6 +1,6 @@
-#EXTINF:-1,CP24
-https://www.cp24.com/video?clipId=68595
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1,ELEVEN体育一台
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 #EXTINF:-1 group-title="亨鼎体育",NBA
 http://www.51romzj.shop:666/xsjdl.php?id=nba
 #EXTINF:-1 group-title="亨鼎体育" tvg-logo="https://epg.112114.xyz/logo/智林体育台.png",智林体育台
